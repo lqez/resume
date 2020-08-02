@@ -3,7 +3,7 @@
 
 ## 경력
 
-### [스마트스터디 (SMARTSTUDY)]( / <https://www.smartstudy.co.kr/)
+### [스마트스터디 (SMARTSTUDY)](https://www.smartstudy.co.kr/)
 2010년 6월 ~ 2017년 12월
 
 스마트스터디를 공동창업하였으며, 최고 기술 책임자(CTO)와 브랜드 매니저, 그리고 공동 대표로 스마트스터디의 성장을 위해 다양한 업무를 수행했습니다.
@@ -20,14 +20,14 @@
 
 (TBD)
 
-### 한게임 (Hangame)
+### [한게임 (Hangame)](https://www.hangame.com/)
 2001년 2월 ~ 2006년 2월
 
 (TBD)
 
 ## 활동
 
-### 하루개발 (One day dev) / <https://one-day.dev/>
+### [하루개발 (One day dev)](https://one-day.dev/)
 2019년 12월 ~ 현재
 
 (TBD)
